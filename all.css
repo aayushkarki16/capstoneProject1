@@ -1,0 +1,59 @@
+body{
+	/*background-color: #00CED1;*/
+	background-color: #0C2340;
+	margin: 0px;
+
+}
+
+#div1{
+	
+	border-left: 80px solid  #00CED1;
+	border-right: 80px solid #00CED1;
+	border-bottom: 80px solid  #00CED1;
+
+
+}
+
+h1, h2{
+	text-align: center;
+	color: white;
+}
+
+p{
+	margin: 100px;
+	text-align: center;
+	color: white;
+	font-family: georgia;
+}
+
+#form1{
+	margin: 50px;
+	margin-right: 200px;
+	margin-left: 200px;
+	/*padding-left: 400px;*/
+	text-align: center;
+
+}
+
+label{
+	display: block;
+	color: white;
+	font-size: 25px;
+}
+
+input{
+	padding: 12px;
+	width: 30%;
+
+}
+
+button{
+	display: block;
+	background-color: orange;
+	font-size: 18px;
+	padding: 15px;
+	border: 1px solid white;
+	border-radius: 12px;
+	margin: auto;
+	margin-top: 20px;
+}
